@@ -1,0 +1,22 @@
+﻿  Camera.cpp
+  DDSTextureLoader.cpp
+  Framework.cpp
+  DirectXFramework.cpp
+  Graphics2.cpp
+  Mesh.cpp
+  MeshNode.cpp
+  MeshRenderer.cpp
+  ResourceManager.cpp
+  SceneGraph.cpp
+  TerrainNode.cpp
+C:\Users\Cody\Downloads\DirectXFramework (7)\DirectXFramework\Graphics2\TerrainNode.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+  TexturedCubeNode.cpp
+  WICTextureLoader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1692 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graphics2.vcxproj -> C:\Users\Cody\Downloads\DirectXFramework (7)\DirectXFramework\x64\Release\Graphics2.exe
+  C:\Users\Cody\Downloads\DirectXFramework (7)\DirectXFramework\Graphics2\assimp-vc140-mt.dll
+  C:\Users\Cody\Downloads\DirectXFramework (7)\DirectXFramework\Graphics2\zlib.dll
+          2 file(s) copied.
